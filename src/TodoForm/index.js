@@ -28,8 +28,8 @@ function TodoForm(){
             <textarea
             value={newTodoValue}
             onChange={onChange}
-            placeholder="Placeholder"
-            />
+            placeholder="Write your new TODO here"
+            />  
 
             <div className="todoForm-buttonContainer">
                 <button
